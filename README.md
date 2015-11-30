@@ -4,20 +4,24 @@ Planning Poker is a good way to come to a consensus without spending too much ti
 
 A  plan poker include 0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, 100, ?, ∞
 
-Opensource(PSD):
+Opensource (PSD):
 
-1-1 1-2 green
+Red
 
-2-1 2-2 red
+Orange
 
-3-1 3-2 orange
+Yellow
 
-4-1 4-2 yellow
+Green
 
-5-1 5-2 blue
+Acid Blue
 
-6-1 6-2 purple
+Blue
 
-7-1 7-2 turquoise blue
+Purple
+
+Review Board
+
+Brun-down Chart
 
 

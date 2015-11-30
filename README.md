@@ -22,6 +22,10 @@ A  plan poker include 0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, 100, ?, ∞
 
 # Review Board
 
-# Brun-down Chart
+> Review.jpg
+
+# Burn-down Chart
+
+> Burn-down Charts.jpg
 
 
